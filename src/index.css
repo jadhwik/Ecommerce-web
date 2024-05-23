@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.main-app {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    
+  }
+
+  /* .shoes{
+    background-image: linear-gradient( 135deg, #FEC163 10%, #DE4313 100%);
+
+  } */
+    @font-face {
+      font-family: new;
+      src: url(./assets/PoetsenOne-Regular.ttf);
+    }
+
+    .nike-quote{
+      font-family: new;
+    }
+.shoes .main1 .gif img{
+  mix-blend-mode: multiply;
+}
+
+.slide-in {
+  @apply translate-x-0 opacity-100;
+}
+
+.slide-out {
+  @apply translate-x-0 opacity-0 ;
+}
+.comp3{
+  background-image: linear-gradient( 135deg, #81FFEF 10%, #F067B4 100%);
+}
+
+.comp4{
+  /* background-image: linear-gradient( 135deg, #1f1f1f 40%, #0a0a0a); */
+  background-image: linear-gradient(rgb(34, 29, 29), rgb(15, 14, 14));
+}
+    
+  
+
+  
+  
