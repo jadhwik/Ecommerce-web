@@ -1,5 +1,16 @@
 # React + Vite
 
+#ECOMMERCE WEB 
+
+This a simple ecommerce web front end using reactjs.
+
+Link- https://jadhwik.github.io/Ecommerce-web/
+
+![ecommerce-web](https://github.com/jadhwik/Ecommerce-web/assets/99212318/e6c2ba08-b28a-40de-9bd4-1a0e89f91f93)
+
+
+![web2](https://github.com/jadhwik/Ecommerce-web/assets/99212318/62d90028-2613-4483-8181-793d18be0326)
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
